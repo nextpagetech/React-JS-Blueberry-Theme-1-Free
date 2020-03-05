@@ -13,7 +13,9 @@ About
 
 # USAGE 
 
-Download the theme [click here](https://nextpagetechnologies.com/react_themes/blueberry_theme_1) then  extract it 
+Download the theme [(click here)](https://nextpagetechnologies.com/react_themes/blueberry_theme_1) then  extract it 
+
+## Installation 
 
 ### Install nodemodules 
   npm intall
