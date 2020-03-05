@@ -59,3 +59,6 @@ Next Page Technologies Pvt.Ltd. is a creative and technology company. We build c
 ### React Js, React Native, React Redux, React Hooks, IONIC, Angular Js, Node Js, PHP. 
 We also expertise developing
 ### ecommerce application(Web and mobile ), apps for industries like real estate, manufacuring, educational institutes, food businesses, service industries and many more.
+
+## License Terms
+**This source code is under Noncommercial license. You can modify and redistribute our theme for any non commercial use**
