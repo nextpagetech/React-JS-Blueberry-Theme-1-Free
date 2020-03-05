@@ -52,7 +52,7 @@ You can also use yarn to install dependencies instead of npm.
    
   This will start a local web server on port 4000, on which the production folder (/build/) will be available in your browser.
 
-### Designed & Developed By [Next Page Technologies](https://nextpagetechnologies.com/)
+### Designed & Developed By [Next Page Technologies Pvt. Ltd.](https://nextpagetechnologies.com/)
 
 ## About Next Page Technologies
 Next Page Technologies Pvt.Ltd. is a creative and technology company. We build custom applications for web and mobile to enhance and evolve the way you do business. We are a team of people highly skilled at 
