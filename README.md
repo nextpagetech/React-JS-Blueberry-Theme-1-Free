@@ -56,6 +56,7 @@ You can also use yarn to install dependencies instead of npm.
 
 ## About Next Page Technologies
 Next Page Technologies Pvt.Ltd. is a creative and technology company. We build custom applications for web and mobile to enhance and evolve the way you do business. We are a team of people highly skilled at **React Js, React Native, React Redux, React Hooks, IONIC, Angular Js, Node Js, PHP.** 
+
 We also expertise developing **ecommerce application(Web and mobile ), apps for industries like real estate, manufacuring, educational institutes, food businesses, service industries and many more.**
 
 ## License Terms
