@@ -1,5 +1,5 @@
 
-# Architecture UI React JS Blueberry Theme 1 Free
+#  React JS Architecture UI Blueberry Theme 1 For Free
 
 
 ## [Click here for demo and download code](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
