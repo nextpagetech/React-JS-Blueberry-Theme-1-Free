@@ -1,5 +1,5 @@
 
-#  React JS Architecture UI Blueberry Theme 1 For Free
+#  React JS Architecture UI Blueberry Theme 1 ( Free Theme )
 
 
 ## [See Demo and Download source code ( Completely free theme )](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
@@ -55,10 +55,8 @@ You can also use yarn to install dependencies instead of npm.
 ### Designed & Developed By [Next Page Technologies Pvt. Ltd.](https://nextpagetechnologies.com/)
 
 ## About Next Page Technologies
-Next Page Technologies Pvt.Ltd. is a creative and technology company. We build custom applications for web and mobile to enhance and evolve the way you do business. We are a team of people highly skilled at 
-### React Js, React Native, React Redux, React Hooks, IONIC, Angular Js, Node Js, PHP. 
-We also expertise developing
-### ecommerce application(Web and mobile ), apps for industries like real estate, manufacuring, educational institutes, food businesses, service industries and many more.
+Next Page Technologies Pvt.Ltd. is a creative and technology company. We build custom applications for web and mobile to enhance and evolve the way you do business. We are a team of people highly skilled at **React Js, React Native, React Redux, React Hooks, IONIC, Angular Js, Node Js, PHP.** 
+We also expertise developing **ecommerce application(Web and mobile ), apps for industries like real estate, manufacuring, educational institutes, food businesses, service industries and many more.**
 
 ## License Terms
 **This source code is under Noncommercial license. You can modify and redistribute our theme for any non commercial use**
