@@ -59,7 +59,7 @@ Next Page Technologies Pvt.Ltd. is a creative and technology company. We build c
 
 We also expertise developing ***ecommerce application(Web and mobile ), apps for industries like real estate, manufacuring, educational institutes, food businesses, service industries and many more.***
 
-##***[Contact us](https://nextpagetechnologies.com/) if you are looking for any web or mobile application development. We are very much happy to help.***
+##***[Contact us](https://nextpagetechnologies.com/) if you are looking for any web or mobile application development. We are very much happy to help.***##
 
 ## License Terms
 **This source code is under Noncommercial license. You can modify and redistribute our theme for any non commercial use**
