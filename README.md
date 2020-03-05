@@ -2,7 +2,7 @@
 #  React JS Architecture UI Blueberry Theme 1 For Free
 
 
-## [Click here for demo and download code](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
+## [See Demo and Download source code ( Completely free theme )](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
 
 ### Home Screen
 <img src="https://github.com/nextpagetech/react_theme1/blob/master/home_screen.jpeg" alt='Home Screen' width='100%' height='100%' />
@@ -20,7 +20,7 @@
 ![Alt text](https://github.com/nextpagetech/react_theme1/blob/master/products_screen.jpeg "About Screen")
 
 
-## [Click here for demo and download code](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
+## [See Demo and Download source code ( Completely free theme )](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
 
 # USAGE 
 
@@ -51,5 +51,11 @@ You can also use yarn to install dependencies instead of npm.
       serve -s build -l 4000
    
   This will start a local web server on port 4000, on which the production folder (/build/) will be available in your browser.
-  
 
+### Designed & Developed By [Next Page Technologies](https://nextpagetechnologies.com/)
+
+## About Next Page Technologies
+Next Page Technologies Pvt.Ltd. is a creative and technology company. We build custom applications for web and mobile to enhance and evolve the way you do business. We are a team of people highly skilled at 
+### React Js, React Native, React Redux, React Hooks, IONIC, Angular Js, Node Js, PHP. 
+We also expertise developing
+### ecommerce application(Web and mobile ), apps for industries like real estate, manufacuring, educational institutes, food businesses, service industries etc.
