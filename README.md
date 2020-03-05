@@ -13,7 +13,7 @@ About
 
 # USAGE 
 
-Download the theme [here] (https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
+Download the theme [click here](https://nextpagetechnologies.com/react_themes/blueberry_theme_1) then  extract it 
 
 ### Install nodemodules 
   npm intall
